@@ -1,4 +1,4 @@
-if ($request.headers['Referer'].match(/pixiv/)) {
+if ($request.headers['Referer']?.match(/pixiv/)) {
   $done({})
 } else {
   $done({

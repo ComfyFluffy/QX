@@ -1,29 +1,30 @@
 # https://github.com/sve1r/Rules-For-Quantumult-X/blob/develop/Rules/Region/China.list
+
 # Region / 区域性 list -- China部分
 # 请注意，此规则仍然处于未完善并持续更新的状态
 # 常用UA
-user-agent, %E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*
-user-agent,%E5%8D%B3%E5%88%BB*
-user-agent,*Vainglory* 
-user-agent,AdBlock*
-user-agent,arrowio*
-user-agent,balls*
-user-agent,Best%20Trace*
-user-agent,cmblife*
-user-agent,eusoft_ting_en_iphone
-user-agent,hide*
-user-agent,MegaWerewolf*
-user-agent,MicroMessenger*
-user-agent,Moke*
-user-agent,osee2unifiedRelease*
-user-agent,QQ*
-user-agent,TeamViewer*
-user-agent,TIM*
-user-agent,ting_en
-user-agent,WebTorrent*
-user-agent,WeChat*
+# user-agent, %E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*
+# user-agent,%E5%8D%B3%E5%88%BB*
+# user-agent,*Vainglory* 
+# user-agent,AdBlock*
+# user-agent,arrowio*
+# user-agent,balls*
+# user-agent,Best%20Trace*
+# user-agent,cmblife*
+# user-agent,eusoft_ting_en_iphone
+# user-agent,hide*
+# user-agent,MegaWerewolf*
+# user-agent,MicroMessenger*
+# user-agent,Moke*
+# user-agent,osee2unifiedRelease*
+# user-agent,QQ*
+# user-agent,TeamViewer*
+# user-agent,TIM*
+# user-agent,ting_en
+# user-agent,WebTorrent*
+# user-agent,WeChat*
 # GeoIP CN段 直联
-GEOIP,CN
+# GEOIP,CN
 
 
 # IP类工具 直联
@@ -35,7 +36,7 @@ host-suffix,ipv6-test.com
 host-suffix,test-ipv6.com
 host-suffix,whatismyip.com
 # 测速类
-//Speed Test
+# Speed Test
 # host-suffix,speedtest.net
 host-suffix,netspeedtestmaster.com
 host,speedtest.macpaw.com
